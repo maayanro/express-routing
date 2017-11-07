@@ -1,6 +1,14 @@
 # express-routing
 express framework routing exercise
-
+<p>
+<ins>Instructions for running the example:</ins><br>
+1. open cmd in the folder where package.json is<br>
+2. run npm install<br>
+3. see that node_modules folder was added with all express appendix<br>
+4. run node app.js (to run the application)<br>
+5. open your browser with this url - localhost:3000/<br>
+6. play with all routings
+</p>
 <ul>
   <li>
     <strong>Downloading express framwork using npm install --save command</strong><br>
